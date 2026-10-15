@@ -10,7 +10,7 @@
 - 隐私政策：<https://sxyqgyz-sudo.github.io/zheyue/privacy.html>
 - 版本与源码：<https://sxyqgyz-sudo.github.io/zheyue/source.html>
 
-作者：哲　·　联系邮箱：<ZheHarmony@163.com>
+联系邮箱：<ZheHarmony@163.com>
 
 ## 版本与源码
 
