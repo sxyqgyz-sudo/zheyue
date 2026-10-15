@@ -2,17 +2,19 @@
 
 哲阅是面向中国大陆免费提供的 HarmonyOS 本地电子书阅读器，支持 TXT、EPUB、MOBI、AZW3 和 PDF。书籍由用户通过系统文件选择器打开或导入，应用在设备本地管理书架、阅读位置、书签、标注和设置。
 
+作者署名：哲
+
 当前公开页面：
 
 - 首页：<https://sxyqgyz-sudo.github.io/zheyue/>
 - 隐私政策：<https://sxyqgyz-sudo.github.io/zheyue/privacy.html>
 - 版本与源码：<https://sxyqgyz-sudo.github.io/zheyue/source.html>
 
-运营主体：哲　·　联系邮箱：<ZheHarmony@163.com>
+作者：哲　·　联系邮箱：<ZheHarmony@163.com>
 
 ## 版本与源码
 
-本仓库提供哲阅 HarmonyOS 1.0.101 候选版本的对应源码。当前候选应用包名为 `com.zheyue.reader.app`，设置中的“关于哲阅”已接入隐私政策、版本源码、网址复制及本地许可全文。该候选仍待新身份真机验收，尚未在华为应用市场上架。
+本仓库提供哲阅 HarmonyOS 1.0.101 候选版本的对应源码。当前候选应用包名为 `com.zheyue.reader.app`，设置中的“关于哲阅”已接入隐私政策、版本源码、网址复制及本地许可全文。用户已报告该版本真机测试完成无问题，尚未在华为应用市场上架。
 
 - Release 页面：<https://github.com/sxyqgyz-sudo/zheyue/releases/tag/v1.0.101-source>
 - 对应源码 ZIP 直链：<https://github.com/sxyqgyz-sudo/zheyue/releases/download/v1.0.101-source/ZheYue-1.0.101-corresponding-source.zip>
