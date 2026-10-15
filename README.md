@@ -12,13 +12,15 @@
 
 ## 版本与源码
 
-本仓库提供哲阅 HarmonyOS 1.0.100 候选版本的对应源码。当前候选应用包名为 `com.zheyue.reader.app`，尚未在华为应用市场上架。隐私政策 URL 接入应用后，还需重建并完成新身份真机验收。
+本仓库提供哲阅 HarmonyOS 1.0.101 候选版本的对应源码。当前候选应用包名为 `com.zheyue.reader.app`，设置中的“关于哲阅”已接入隐私政策、版本源码、网址复制及本地许可全文。该候选仍待新身份真机验收，尚未在华为应用市场上架。
 
-- Release 页面：<https://github.com/sxyqgyz-sudo/zheyue/releases/tag/v1.0.100-source>
-- 对应源码 ZIP 直链：<https://github.com/sxyqgyz-sudo/zheyue/releases/download/v1.0.100-source/ZheYue-1.0.100-corresponding-source.zip>
-- 文件名：`ZheYue-1.0.100-corresponding-source.zip`
-- SHA-256：`612f7e13836a4ee68ffd8d0cde7885a2b59e91f0155edf55f33a3cbda5a2cb24`
-- 候选 APP SHA-256：`2b02f7477ef12c855ac6ad5510665dac4929147a5e96436763da878d09dae224`
+- Release 页面：<https://github.com/sxyqgyz-sudo/zheyue/releases/tag/v1.0.101-source>
+- 对应源码 ZIP 直链：<https://github.com/sxyqgyz-sudo/zheyue/releases/download/v1.0.101-source/ZheYue-1.0.101-corresponding-source.zip>
+- 文件名：`ZheYue-1.0.101-corresponding-source.zip`
+- SHA-256：`e712a5cdefa16f3636f6a50ea54aa18629854a699d5e684a941ac52d9366fc18`
+- 候选 APP SHA-256：`c5bc45ce887d39ed14e93b2febaa50ec23bfc97bb39b3a90a723d6bac6d599ed`
+
+此前的 [1.0.100 对应源码](https://github.com/sxyqgyz-sudo/zheyue/releases/tag/v1.0.100-source)继续保留，各版本请使用自己的源码附件。
 
 GitHub Release 自动生成的 “Source code (zip)” 和 “Source code (tar.gz)” 只是对应标签的仓库快照，不是哲阅完整对应源码。请下载上面明确命名的对应源码 ZIP，并核对 SHA-256。
 
